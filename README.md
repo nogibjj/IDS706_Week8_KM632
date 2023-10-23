@@ -28,7 +28,7 @@ Alternatively, you can clone the repo and complete the steps 2-3.
 
 Interestengly, I found that Python performed much faster than Rust for image processing. 
 
-**Python: **
+**Python:**
 
 Execution Time: 66551336 nanoseconds
 
