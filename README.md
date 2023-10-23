@@ -4,7 +4,7 @@
 
 This project compares the Python and Rust image processing capabilities. 
 
-Both programs takes an image as input and resize and blur the image. It then saves the image as an output. 
+Both programs takes an image as input and resize and blurs the image. It then saves the image as an output. 
 
 Python uses Pillow library whereas Rust uses Image library. 
 
@@ -13,7 +13,7 @@ Devcontianer is created with Rust as the base image. It then installs Python3 as
 ### To run the Rust program in Codespaces: 
 
 1. Create Github Codespaces
-2. Run "gargo build"
+2. Run "cargo build"
 3. Run "cargo run"
 
 To run the Python program: 
